@@ -35,6 +35,3 @@ https://sdathu0624-tech.github.io/Open-UOM-Assignment---My-Webpage/
 2. Open index.html in your browser
 
 No build steps or dependencies required — it's a fully static site.
-3. Open `index.html` in your browser
-
-No build steps or dependencies required — it's a fully static site.

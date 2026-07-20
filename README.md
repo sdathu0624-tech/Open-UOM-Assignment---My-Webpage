@@ -1,5 +1,4 @@
 # Advanced IT Learning Portal
-
 A static web app for learning IT skills — track your progress and complete quizzes for each course.
 
 ## Features

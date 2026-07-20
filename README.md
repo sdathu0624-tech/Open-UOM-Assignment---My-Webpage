@@ -28,7 +28,7 @@ my-webpage/
     └── database.jpeg
 
 ## Live Demo
-
+https://sdathu0624-tech.github.io/Open-UOM-Assignment---My-Webpage/
 
 ## Getting Started
 1. Clone or download this repository
